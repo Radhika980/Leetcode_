@@ -13,7 +13,6 @@ public:
             else
             // k.push_back(s[i]);
             k+=s[i];
-            
         }
         return k;
          }
