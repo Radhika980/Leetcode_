@@ -6,6 +6,7 @@ public:
         int ct=1, i=0;
         while(j!=k)
         {
+            
             i=(10*i+1)%k;
             if(i==0)return ct;
             else ct++;
